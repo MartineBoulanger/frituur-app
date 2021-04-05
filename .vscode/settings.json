@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "'Victor Mono', monospace",
+    "editor.fontLigatures": true,
+    "editor.inlineHints.fontFamily": "'Victor Mono', monospace",
+    "editor.fontSize": 16,
+    "editor.formatOnType": true,
+    "debug.console.fontFamily": "'Victor Mono', monospace",
+}
