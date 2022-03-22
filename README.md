@@ -1,3 +1,9 @@
+# Frituur-app
+Deze app is het eindwerk van react.js van de opleiding front-end (nu full-stack geloof ik) developer opleiding bij CVO de Verdieping.
+In dien je zelf een eindwerk als dit moet maken, gelieve alleen dit als voorbeeld te gebruiken.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
