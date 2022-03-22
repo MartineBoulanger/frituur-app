@@ -1,5 +1,5 @@
 # Frituur-app
-Deze app is het eindwerk van react.js van de opleiding front-end (nu full-stack geloof ik) developer opleiding bij CVO de Verdieping.
+Deze app is het eindwerk van react.js van de front-end (nu full-stack geloof ik) developer opleiding bij CVO de Verdieping.
 In dien je zelf een eindwerk als dit moet maken, gelieve alleen dit als voorbeeld te gebruiken.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
